@@ -9,3 +9,5 @@ To get an introduction of the Tools and how they are meant to be used, please fi
 > ***1. User Sentiment Analysis Dashboard (A Tableau Dashboard)***  
 > ***2. Back Validation Tool (A Colab Notebook)***  
 
+These tools are meant to work together. More info can be found in  [User Documentation](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/raw/master/User%20Documentation.pdf) about these tools. The main aim of this documentation is to show how these tools can be built and manipulated.  
+
