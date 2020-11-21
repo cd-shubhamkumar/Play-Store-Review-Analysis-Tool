@@ -1,7 +1,7 @@
 # Play Store Review Analysis Tool Documentation
 
 ## Requiremets  
->- **Python 3**
+>- **Python 3 with pip**
 >- **Python libraries of (Jupyter, IPython, Numpy and Pandas)**
 >- **Tableau Public Profile**  
 
