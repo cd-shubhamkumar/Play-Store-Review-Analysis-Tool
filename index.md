@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Play Store Review Analysis Tool Documentation
 
-You can use the [editor on GitHub](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Requiremets  
+>- **Python 3**
+>- **Python libraries of (Jupyter, IPython, Numpy and Pandas)**
+>- **Tableau Public Profile**  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To get an introduction of the Tools and how they are meant to be used, please first refere to [User Documentation](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/raw/master/User%20Documentation.pdf). This tool is a User Review Analysis tool. The main aim of the of these tools are to get an overall user sentiment with **major user pain points**. The toolset consists of two main tools:  
+> ***1. User Sentiment Analysis Dashboard (A Tableau Dashboard)***  
+> ***2. Back Validation Tool (A Colab Notebook)***  
 
-### Markdown
+These tools are meant to work together. More info can be found in  [User Documentation](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/raw/master/User%20Documentation.pdf) about these tools. The main aim of this documentation is to show how these tools can be built and manipulated.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
