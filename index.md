@@ -22,7 +22,7 @@ To rebuild this tool please follow the following steps:
 
 >**Step 4:** Run **[[Tableau_01]Frizza_Final.ipynb](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/blob/master/%5BTableau_01%5DFrizza_Final.ipynb)** and **[[Tableau02]Token_classifier.ipynb](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/blob/master/%5BTableau02%5DToken_classifier.ipynb)** in same order. These files would automatically generate and save the data inside ***for_tableau*** folder.  
 
->**Step 5:** Open the ***User Sentiment Analysis Dashboard*** and chnage the data with data generated in Step 4 (The folder ***for_tableau*** contains five csv files. Each for one rating. So, replace the data accordingly in ***User Sentiment Analysis Dashboard***).  
+>**Step 5:** Open the ***User Sentiment Analysis Dashboard*** and change the data with data generated in Step 4 (The folder ***for_tableau*** contains five csv files. Each for one rating. So, replace the data accordingly in ***User Sentiment Analysis Dashboard***).  
 
 >**Step 6:** Run **[[To GitHub]Back_Validation_Tool_Data_Shaping.ipynb](https://github.com/cd-shubhamkumar/Play-Store-Review-Analysis-Tool/blob/master/%5BTo%20GitHub%5DBack_Validation_Tool_Data_Shaping.ipynb)** notebook. It will save the data for ***Back Validation Tool*** inside ***back_validation_tool_github*** folder. This data is required to be hosted on a GitHub repo or Cloud Storage Service. And the link to acces the data has to changed inside ***Back Validation Tool***.  
 
